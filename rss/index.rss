@@ -1,28 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Sat, 07 Apr 2018 12:19:12 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[[Análisis del entorno] Análisis de escenarios]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Uno de los factores que más afecta la toma de decisiones, la definición de estrategias y los planes, de acción en cualquier organización, es la incertidumbre.  Para tratar de disminuir el riesgo, es que se plantean los diferentes escenarios posibles, tomando en cuenta los factores del entorno más sobresalientes que</p></div>]]></description><link>https://blog.gerencial.me/analisis-del-entorno-analisis-de-escenario/</link><guid isPermaLink="false">5ac8b577922f421b85214d5f</guid><category><![CDATA[analisis-de-escenarios]]></category><category><![CDATA[organización]]></category><category><![CDATA[empresa]]></category><category><![CDATA[TP-2]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Sat, 07 Apr 2018 12:16:01 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/analisisdeescenarios2.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/analisisdeescenarios2.png" alt="[Análisis del entorno] Análisis de escenarios"><p>Uno de los factores que más afecta la toma de decisiones, la definición de estrategias y los planes, de acción en cualquier organización, es la incertidumbre.  Para tratar de disminuir el riesgo, es que se plantean los diferentes escenarios posibles, tomando en cuenta los factores del entorno más sobresalientes que pueden interactuar e influir sobre la organización.<br>
-Un Escenario es la descripción de una situación futura posible, que se basa en la interacción de los factores o situaciones que pueden presentarse y que son los de mayor impacto sobre la organización.<br>
-Según el Dr. Alexander Fink, existen 4 niveles de incertidumbre:</p>
-<p><img src="https://blog.gerencial.me/content/images/2018/04/analisisEscenarios.png" alt="[Análisis del entorno] Análisis de escenarios"></p>
-<p>Para llegar a establecer los escenarios adecuados, existen 2 elementos previos:</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Mon, 09 Apr 2018 13:37:57 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Cultura y análisis interno]]></title><description><![CDATA[<div class="kg-card-markdown"><p>En este post se explicará como se realiza el <strong>análisis de cultura y grupos de interes</strong> a partir del modelo de <em>entramado cultural</em> (Gerry Johnson,Kevan Scholes y Richard Whittington); y como se lleva a cabo el <strong>análisis interno</strong> de una organización haciendo uso de la <em>perspectiva basada en los</em></p></div>]]></description><link>https://blog.gerencial.me/cultura-y-analisis-interno/</link><guid isPermaLink="false">5acb5a987fdc4502ba035648</guid><category><![CDATA[TP-2]]></category><category><![CDATA[empresa]]></category><category><![CDATA[recursos]]></category><category><![CDATA[cadena-de-valor]]></category><category><![CDATA[entramado-cultural]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Mon, 09 Apr 2018 13:35:35 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-09-a-la-s--09.58.24.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-09-a-la-s--09.58.24.png" alt="Cultura y análisis interno"><p>En este post se explicará como se realiza el <strong>análisis de cultura y grupos de interes</strong> a partir del modelo de <em>entramado cultural</em> (Gerry Johnson,Kevan Scholes y Richard Whittington); y como se lleva a cabo el <strong>análisis interno</strong> de una organización haciendo uso de la <em>perspectiva basada en los recursos</em> (Jay Barney) y la <em>cadena de valor</em> (Michael E. Porter).</p>
+<hr>
+<h2 id="anlisisdeculturaygruposdeinteres">Análisis de cultura y grupos de interes</h2>
+<p>Las empresas están influenciadas por las culturas y los grupos que tienen intereses(los stakeholders). El análisis de las cultura y los grupos de interés puede realizarse tanto a nivel externo como interno de la organización.<br>
+Por un lado, a nivel externo, se puede estudiar el contexto social y la influencia de los grupos organizados; desde los sindicatos hasta las asociaciones de consumidores o los medios de comunicación. Y a nivel interno, se puede analizar la cultura de la organización y sus grupos de interés principales, fundamentalmente los accionistas pero también directivos, empleados o proveedores. Sobre la influencia de las culturas nacionales en la gestión empresarial a partir de las investigaciones de Hofstede, se pueden encontrar diversos modelos y herramientas para su análisis.</p>
+<h3 id="entramadocultural">Entramado cultural</h3>
+<p>El académico británico Gerry Johnson, coautor junto con Kevan Scholes y Richard Whitington de uno de los manuales de estrategia mas conocido, introduce el modelo del entramado cultural para estudiar las culturas internas a través del análisis de sus paradigmas, historias, símbolos, rituales, sistemas de control y estructuras de las organización. Estos diferentes elementos del entramado cultural sirven para desentrañar la manera como se hacen las cosas en esta organización. Para el análisis de las personas y los grupos de interés (los stakeholders), Kevan Scholes propone el uso de mapas para su identificación y el diseño de las matrices (poder-dinamismo, poder-interés) para su clasificación y gestión. Los análisis de cultura y poder son muy importantes antes de la toma de decisiones estratégicas.</p>
+<style>
+    .two-img {
+    display: block;
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+</style>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-09-a-la-s--09.32.13.png" alt="Cultura y análisis interno" class="two-img" onclick="onClick(this)">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-09-a-la-s--09.32.43.png" alt="Cultura y análisis interno" class="two-img" onclick="onClick(this)">
+  </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <img class="w3-modal-content" id="img01" style="width:50%" alt="Cultura y análisis interno">
+</div>
+<hr>
+<h2 id="anlisisinterno">Análisis interno</h2>
+<h3 id="perspectivabasadaenlosrecursos">Perspectiva basada en los recursos</h3>
+<p>El desarrollo de los recursos y capacidades para establecer una ventaja competitiva se ha convertido en la principal meta para la formulación de la estrategia. De ese modo, mientras la visión convencional de la ventaja competitiva se orienta hacia sus fuentes genéricas, o sea, ventajas en coste y diferenciación, la <strong>perspectiva basada en los recursos</strong> se centra en los recursos y capacidades que están en la base de esas ventajas.<br>
+Para que las empresas transformen estos recursos en ventajas competitivas sostenibles, los mismos deben tener cuatro atributos que pueden ser resumidos en el modelo VRIO:</p>
 <ul>
-<li>Factores clave: Situaciones que pueden llegar a ocurrir en un futuro y que tienen impacto sobre la organización o sus resultados e influyen sobre el ambiente en que se desarrolla un escenario.</li>
-<li>Proyecciones futuras: Visualizaciones y planteamientos de las diferentes posibilidades de ocurrencia de cada uno de los factores clave y de la manera en que estos pueden presentarse en el entorno futuro.</li>
+<li>Valioso: Permiten a la empresa implementar estrategias que mejoren su eficiencia, por ejemplo, optimizar los costos o incrementar los beneficios.</li>
+<li>Raro: lo poseen, controlan y administran muy pocas organizaciones.</li>
+<li>Inimitable: No reproducible con facilidad habiendo varios factores para ello: la historia de la empresa, el desarrollo de sus propios recursos a través de procedimientos y técnicas aprendidas, y la interconexión o la interdependencia de los recursos para producirlos, teniendo, en consecuencia, un carácter idiosincrático.</li>
+<li>No equivalente estratégicamente: valioso y no imitable. En efecto, si una empresa tiene recursos estratégicamente equivalentes, puede implementar las mismas estrategias de diferentes maneras con distintos recursos, lo que pone en peligro la sostenibilidad de una ventaja competitiva.</li>
 </ul>
-<p>En base a estos se construyen los <strong>escenarios</strong>: combinación de cada posibilidad de los diferentes factores clave para plantear alternativas de entornos que afecten a la organización.</p>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-09-a-la-s--10.25.20.png" alt="Cultura y análisis interno"></p>
+<h3 id="cadenadevalor">Cadena de valor</h3>
+<p>El modelo de la cadena de valor resalta las actividades específicas en las empresas en donde se pueden aplicar mejor las estrategias competitivas (Porter, 1985) y en donde es más probable que los sistemas de información tengan un impacto estratégico. Este modelo identifica los puntos de influencia fundamentales específicos en donde una empresa puede utilizar la tecnología de la información con la máxima eficiencia para mejorar su posición competitiva. El modelo de la cadena de valor ve a la empresa como una serie o cadena de actividades básicas que añaden un margen de valor a los productos o servicios de una firma, y a estas actividades se les pueden categorizar como primarias o de apoyo</p>
+<ul>
+<li>Las actividades primarias se relacionan en su mayor parte con la producción y distribución de los productos y servicios de la empresa, los cuales crean valor para el cliente.</li>
+<li>Las actividades de apoyo hacen posible la entrega de las actividades primarias y consisten en: infraestructura de la organización, recursos humanos, tecnología y abastecimiento.</li>
+</ul>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-09-a-la-s--09.49.49.png" alt="Cultura y análisis interno"></p>
 <h2 id="bibliografa">Bibliografía</h2>
 <ul>
-<li>Análisis de escenarios. Recuperado de: <a href="//www.iberoonline.com/v3/VE/lecturas/vespciv02.html">Iberoonline</a></li>
+<li>Johnson, G., Scholes, K., Whittington, R., Blanco Mazagatos, V. and Moreno López, Y. (2010). Dirección estratégica. Madrid: Prentice Hall.</li>
+<li>Laudon, K. and Laudon, J. (2012). Sistemas de informacion gerencial. Naucalpan de Juárez (México): Pearson.</li>
+<li>Suárez Hernández, J. and lbarra Mirón, S. (2018). LA TEORíA DE LOS RECURSOS Y LAS CAPACIDADES. UN ENFOQUE ACTUAL EN LA ESTRATEGIA EMPRESARIAL. INGENIERO INDUSTRIAL, M. Sc. EN GESTION DE LA PRODUCCIÓN. UNIVERSIDAD DE MATANZAS, CUBA.</li>
+<li>B2U - Business-to-you.com. (2018). VRIO Framework EXPLAINED with EXAMPLES by B2U. Recuperado de: <a href="//www.business-to-you.com/vrio-from-firm-resources-to-competitive-advantage/">Business-to-you</a>.</li>
 </ul>
-</div>]]></content:encoded></item><item><title><![CDATA[[Análisis del entorno] Las cinco fuerzas de Porter]]></title><description><![CDATA[<div class="kg-card-markdown"><p>El modelo de las cinco fuerzas de Porter es una herramienta que permite elaborar una estrategia empresarial. Consiste en realizar un análisis externo de la empresa en función del sector al que pertenece. Así, se detectan las oportunidades y amenazas existentes en ese entorno específico, que posibilitarán un mejor posicionamiento</p></div>]]></description><link>https://blog.gerencial.me/las-cinco-fuerzas-de-porter/</link><guid isPermaLink="false">5ac63890a4ef6f1836509853</guid><category><![CDATA[porter]]></category><category><![CDATA[organización]]></category><category><![CDATA[empresa]]></category><category><![CDATA[TP-2]]></category><category><![CDATA[estrategias]]></category><category><![CDATA[administración]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Thu, 05 Apr 2018 15:05:46 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-05-a-la-s--11.51.02.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-05-a-la-s--11.51.02.png" alt="[Análisis del entorno] Las cinco fuerzas de Porter"><p>El modelo de las cinco fuerzas de Porter es una herramienta que permite elaborar una estrategia empresarial. Consiste en realizar un análisis externo de la empresa en función del sector al que pertenece. Así, se detectan las oportunidades y amenazas existentes en ese entorno específico, que posibilitarán un mejor posicionamiento frente a la competencia.</p>
-<p>Porter definió: la capacidad de una organización para competir en un mercado dado está determinada por los recursos técnicos y económicos de la organización, así como por cinco fuerzas del entorno, cada una de las cuales amenaza la empresa de la organización y la lleva a un mercado nuevo. El propósito es encontrar un nicho lucrativo y defensible.</p>
-<p><img src="https://blog.gerencial.me/content/images/2018/04/5fuertas-2.png" alt="[Análisis del entorno] Las cinco fuerzas de Porter"></p>
-<h2 id="bibliografa">Bibliografía</h2>
-<ul>
-<li>Empresas Negocios y PyMes (2017). Las cinco fuerzas de Porter. Recuperado de: <a href="https://definanzas.com/las-cinco-fuerzas-de-porter/">De Finanzas</a></li>
-<li>Koontz H, Weihrich H, Cannice M. (2012). Administración una perspectiva global y empresarial. México: McGraw Hill.</li>
-</ul>
-</div>]]></content:encoded></item><item><title><![CDATA[[Análisis del entorno] Modelo PESTEL]]></title><description><![CDATA[<div class="kg-card-markdown"><p>El modelo PESTEL permite analizar el macro-entorno (fuerzas externas) de una organización y analizar cómo estas pueden impactar directamente en sus negocios. Las siglas corresponden a factores Políticos, Económicos, Sociales, Tecnológicos, Ambientales (Enviromental), Jurídicos (Legales).<br>
-Como todo modelo, este enfoque es teórico y dependiendo de la organización es posible reducir</p></div>]]></description><link>https://blog.gerencial.me/modelo-pestel/</link><guid isPermaLink="false">5ac61e4ea03c0b17223ed3fa</guid><category><![CDATA[pestel]]></category><category><![CDATA[organización]]></category><category><![CDATA[empresa]]></category><category><![CDATA[TP-2]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Thu, 05 Apr 2018 13:14:26 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/pestel.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/pestel.png" alt="[Análisis del entorno] Modelo PESTEL"><p>El modelo PESTEL permite analizar el macro-entorno (fuerzas externas) de una organización y analizar cómo estas pueden impactar directamente en sus negocios. Las siglas corresponden a factores Políticos, Económicos, Sociales, Tecnológicos, Ambientales (Enviromental), Jurídicos (Legales).<br>
+</div>]]></content:encoded></item><item><title><![CDATA[Análisis del entorno]]></title><description><![CDATA[<div class="kg-card-markdown"><p>El análisis estratégico que es la parte previa a la decisión, debe tener en cuenta tres niveles de análisis: el análisis del entorno, de la cultura y los grupos de interés, y el análisis interno. En el siguiente post se procederá a explicar los distintos modelos que exísten para analizar</p></div>]]></description><link>https://blog.gerencial.me/analisis-del-entorno/</link><guid isPermaLink="false">5ac8ba50922f421b85214d68</guid><category><![CDATA[TP-2]]></category><category><![CDATA[porter]]></category><category><![CDATA[analisis-de-escenarios]]></category><category><![CDATA[empresa]]></category><category><![CDATA[organización]]></category><category><![CDATA[pestel]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Mon, 09 Apr 2018 12:12:31 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/empresa-entorno-de-influencia-y-variables_21581_10_1.jpg" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/empresa-entorno-de-influencia-y-variables_21581_10_1.jpg" alt="Análisis del entorno"><p>El análisis estratégico que es la parte previa a la decisión, debe tener en cuenta tres niveles de análisis: el análisis del entorno, de la cultura y los grupos de interés, y el análisis interno. En el siguiente post se procederá a explicar los distintos modelos que exísten para analizar el entorno de una organización.</p>
+<h1 id="modelopestel">Modelo PESTEL</h1>
+<p>El modelo PESTEL permite analizar el macro-entorno (fuerzas externas) de una organización y analizar cómo estas pueden impactar directamente en sus negocios. Las siglas corresponden a factores Políticos, Económicos, Sociales, Tecnológicos, Ambientales (Enviromental), Jurídicos (Legales).<br>
 Como todo modelo, este enfoque es teórico y dependiendo de la organización es posible reducir el modelo solo a PEST o añadir otros factores, como por ejemplo Internacional.</p>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/pestel-1.png" alt="Análisis del entorno"></p>
 <p><strong>Factores políticos</strong>: en qué grado las políticas gubernamentales pueden impactar en la organización.</p>
 <p><strong>Factores económicos</strong>: estos factores impactan en la economía y su performance, lo que impacta directamente en la organización y su rentabilidad.</p>
 <p><strong>Factores sociales</strong>: hacen foco en el entorno social y la identificación de tendencias emergentes de los clientes.</p>
@@ -30,10 +62,39 @@ Como todo modelo, este enfoque es teórico y dependiendo de la organización es 
 <p><strong>Factores ambientales</strong>: considerar el medio ambiente y el impacto ecológico que se puede producir.</p>
 <p><strong>Factores jurídicos</strong>: considerar lo que es legal en el territorio en que la organización opera.</p>
 <h2 id="ejemplos">Ejemplos</h2>
-<p><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-05-a-la-s--10.12.43.png" alt="[Análisis del entorno] Modelo PESTEL"></p>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-05-a-la-s--10.12.43.png" alt="Análisis del entorno"></p>
+<hr>
+<h1 id="lascincofuerzasdeporter">Las cinco fuerzas de Porter</h1>
+<p>El modelo de las cinco fuerzas de Porter es una herramienta que permite elaborar una estrategia empresarial. Consiste en realizar un análisis externo de la empresa en función del sector al que pertenece. Así, se detectan las oportunidades y amenazas existentes en ese entorno específico, que posibilitarán un mejor posicionamiento frente a la competencia.</p>
+<p>Porter definió: la capacidad de una organización para competir en un mercado dado está determinada por los recursos técnicos y económicos de la organización, así como por cinco fuerzas del entorno, cada una de las cuales amenaza la empresa de la organización y la lleva a un mercado nuevo. El propósito es encontrar un nicho lucrativo y defensible.</p>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/5fuertas-2.png" alt="Análisis del entorno"></p>
+<hr>
+<h1 id="anlisisdeescenarios">Análisis de escenarios</h1>
+<p>Uno de los factores que más afecta la toma de decisiones, la definición de estrategias y los planes, de acción en cualquier organización, es la incertidumbre.  Para tratar de disminuir el riesgo, es que se plantean los diferentes escenarios posibles, tomando en cuenta los factores del entorno más sobresalientes que pueden interactuar e influir sobre la organización.<br>
+Un Escenario es la descripción de una situación futura posible, que se basa en la interacción de los factores o situaciones que pueden presentarse y que son los de mayor impacto sobre la organización.<br>
+Según el Dr. Alexander Fink, existen 4 niveles de incertidumbre:</p>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/analisisEscenarios.png" alt="Análisis del entorno"></p>
+<p>Para llegar a establecer los escenarios adecuados, existen 2 elementos previos:</p>
+<ul>
+<li>Factores clave: situaciones que pueden llegar a ocurrir en un futuro y que tienen impacto sobre la organización o sus resultados e influyen sobre el ambiente en que se desarrolla un escenario.</li>
+<li>Proyecciones futuras: visualizaciones y planteamientos de las diferentes posibilidades de ocurrencia de cada uno de los factores clave y de la manera en que estos pueden presentarse en el entorno futuro.</li>
+</ul>
+<p>En base a estos se construyen los <strong>escenarios</strong>: combinación de cada posibilidad de los diferentes factores clave para plantear alternativas de entornos que afecten a la organización.</p>
+<style>
+    .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+</style>
+<img src="https://blog.gerencial.me/content/images/2018/04/analisisdeescenarios2-1.png" alt="Análisis del entorno" class="center">
 <h2 id="bibliografa">Bibliografía</h2>
 <ul>
 <li>What is a PESTEL analysis?. Oxford College of Marketing (2016). Recuperado de: <a href="https://blog.oxfordcollegeofmarketing.com/2016/06/30/pestel-analysis/">Oxford College of Marketing</a></li>
+<li>Empresas Negocios y PyMes (2017). Las cinco fuerzas de Porter. Recuperado de: <a href="https://definanzas.com/las-cinco-fuerzas-de-porter/">De Finanzas</a></li>
+<li>Ibero Online. Análisis de escenarios. Recuperado de: <a href="//www.iberoonline.com/v3/VE/lecturas/vespciv02.html">Iberoonline</a></li>
+<li>Koontz H, Weihrich H, Cannice M. (2012). Administración una perspectiva global y empresarial. México: McGraw Hill.</li>
 </ul>
 </div>]]></content:encoded></item><item><title><![CDATA[Visión Misión y Valores]]></title><description><![CDATA[<div class="kg-card-markdown"><h3 id="conceptos">Conceptos</h3>
 <p><em>Orientación y valores</em>: son aspectos importantes para formular la estrategia; establecen el clima organizacional y determinan la dirección de la compañía. Es decir son principios éticos sobre los que se asienta la cultura de nuestra empresa, y nos permiten crear nuestras pautas de comportamiento.</p>
