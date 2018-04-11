@@ -1,6 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Carlos Piasentini - Germán Monzón - Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Carlos Piasentini - Germán Monzón - Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Tue, 10 Apr 2018 12:14:32 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/author/carlos/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Decisiones estratégicas]]></title><description><![CDATA[<div class="kg-card-markdown"><p>El proceso de toma de decisiones sigue tres etapas: primero hay que generar opciones (disponer como mínimo de un dilema estratégico. Después evaluar esas opciones y finalmente seleccionar la estrategia. Para generar estas opciones estratégicas se pueden utilizar diferentes modelos o herramientas estratégicas:</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Carlos Piasentini - Germán Monzón - Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Carlos Piasentini - Germán Monzón - Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Wed, 11 Apr 2018 12:10:31 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/author/carlos/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Implementación de la estrategia]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Cuando una organización quiere realizar cambios ha de ver cómo afectará a todas sus partes y qué medidas va a tener que adoptar para conseguir que se lleve a la práctica de manera excelente.<br>
+Por otra parte es importante convertir la estrategia de la empresa en un conjunto de objetivos</p></div>]]></description><link>https://blog.gerencial.me/implementacion-de-la-estrategia/</link><guid isPermaLink="false">5acdefaecb517d0a9948d534</guid><category><![CDATA[estrategias]]></category><category><![CDATA[empresa]]></category><category><![CDATA[organización]]></category><category><![CDATA[7s]]></category><category><![CDATA[8-aceleradores]]></category><category><![CDATA[CMI]]></category><category><![CDATA[TP-2]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Wed, 11 Apr 2018 12:07:17 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/37.jpg" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/37.jpg" alt="Implementación de la estrategia"><p>Cuando una organización quiere realizar cambios ha de ver cómo afectará a todas sus partes y qué medidas va a tener que adoptar para conseguir que se lleve a la práctica de manera excelente.<br>
+Por otra parte es importante convertir la estrategia de la empresa en un conjunto de objetivos e indicadores de resultados para facilitar su seguimiento y gestión. Para ello exísten diversos cursos de acción, se explicará en el siguiente post tres de ellos: <em>Modelo de las 7s</em>, <em>Cuadro de mando integral</em> y <em>Modelo de aceleradores de Kotter</em></p>
+<hr>
+<h2 id="modelodelas7s">Modelo de las 7s</h2>
+<p>Esta metodología se emplea para evaluar si la implantación de cualquier tipo de estrategia es coherente con el día a día de la empresa. Si no es así, habrá que hacer cambios para alinear la estrategia con la realidad.<br>
+<img src="https://blog.gerencial.me/content/images/2018/04/7s.jpg" alt="Implementación de la estrategia"></p>
+<hr>
+<h2 id="cuadrodemandointegralcmi">Cuadro de Mando Integral (CMI)</h2>
+<p>El Cuadro de Mando Integral traduce la estrategia y la misión de una organización en un amplio conjunto de medidas de actuación, que proporcionan la estructura necesaria para un sistema de gestión y medición estratégica.<br>
+<img src="https://blog.gerencial.me/content/images/2018/04/ddc2819ded9fff43c083cc222895eaeb.png" alt="Implementación de la estrategia"><br>
+El CMI sigue poniendo énfasis en la consecución de objetivos financieros, pero también incluye inductores de actuación de esos objetivos, que, organizados como un conjunto coherente de indicadores de actuación, se enfocan desde cuatro perspectivas diferentes:</p>
+<ul>
+<li>Financieras: los indicadores financieros resumen las consecuencias económicas, fácilmente mensurables, de acciones que ya se han realizado.</li>
+<li>Clientes: identificar los segmentos de clientes y de mercado en los que competirá la unidad de negocio y las medidas de actuación para ello.</li>
+<li>Procesos internos: se identifican los procesos críticos que permitan a la unidad de negocio entregar las propuestas de valor que atraerán y retendrán a los clientes de los segmentos seleccionados y satisfacer las expectativas de excelentes rendimientos financieros de los accionistas.</li>
+<li>Formación y crecimiento: identifica la estructura que la organización debe construir para crear una mejora y crecimiento a largo plazo. Sus fuentes principales son las personas, los sistemas y los procedimientos de la organización.</li>
+</ul>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/f0902607.jpg" alt="Implementación de la estrategia"></p>
+<hr>
+<h2 id="los8aceleradoresdekotter">Los 8 aceleradores de Kotter</h2>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/8acel.png" alt="Implementación de la estrategia"><br>
+Estos ocho aceleradores o pasos se centran en torno a una situación que puede suponer una mejora para la empresa, tanto presente como futura. Puede tratarse de un riesgo como de una oportunidad ya que una buena gestión de la primera permitirá que se convierta en la segunda, llegando en ocasiones a situar a la empresa por delante de sus competidores.</p>
+<table style="width:100%">
+  <tr>
+    <th>1.- Utilizar la sensación de urgencia.</th>
+    <td>Este primer paso es el motor que permitirá que el resto de las etapas fluyan adecuadamente. Y es que crear y expandir una sensación de urgencia clara y fuerte entre el mayor número posible de personal y en torno a un suceso o estrategia que se va a suceder en un futuro cercano, es esencial para que todo el engranaje se ponga en funcionamiento.</td> 
+  </tr>
+  <tr>
+    <th>2.- Establecer una coalición como faro.</th>
+    <td>A raíz de la sensación de urgencia se debe crear un grupo de personas o coalición que sientan esta urgencia, comprendan la empresa y que, por ello, van a ayudar a enfrentar los retos estratégicos que se presentarán para aprovechar la oportunidad.</td> 
+  </tr>
+  <tr>
+    <th>3.- Definir el objetivo e iniciativas estratégicas.</th>
+    <td>La coalición debe comenzar marcando el objetivo o la visión que desea alcanzar y planificar las iniciativas estratégicas necesarias para lograrlo.
+Esta etapa permite definir el futuro a alcanzar para que todo el grupo vaya en la misma dirección, a la vez que marca una planificación general que estructura la labor a realizar e identifica los recursos, tanto materiales como humanos, necesarios para llevarlo a cabo, etc.
+</td> 
+  </tr>
+  <tr>
+    <th>4.- Reclutar voluntarios.</th>
+    <td>Si la visión anterior ha sido bien definida este paso será sencillo ya que, de forma casi espontánea, otras personas de la empresa se identificarán con la imagen presentada y querrán formar parte de ella como voluntarios activos.</td> 
+  </tr>
+   <tr>
+    <th>5.- Eliminar barreras.</th>
+    <td>Una vez que el anterior paso se ha puesto en marcha es normal que surjan barreras que dificulten y limiten la velocidad y eficacia del cambio o cambios a llevar a cabo para aprovechar la oportunidad que se desea conseguir.</td> 
+  </tr>
+   <tr>
+    <th>6.- Celebrar triunfos a corto plazo.</th>
+    <td>En esta etapa, es necesario que todas las personas, coalición y voluntarios, trabajen de forma constante para que los éxitos y triunfos se sucedan a corto plazo de forma constante.
+Estos logros tienen que estar orientados hacia el objetivo estratégico marcado y pueden ser tanto pequeños pasos como grandes avances.
+</td> 
+  </tr>
+  <tr>
+    <th>7.- Impedir que se detenga la aceleración.</th>
+    <td>Este paso está relacionado con lo anteriormente mencionado, y es que los grandes logros tienen que estar apoyados por oportunidades secundarias que impidan que el movimiento impulsado deje de producirse y establezca un flujo constante y dinámico.</td> 
+  </tr>
+  <tr>
+    <th>8.- Integrar el cambio.</th>
+    <td>Es necesario que, en la última etapa, todo este proceso llevado a cabo y que tanto ha costado poner en marcha, se incluya en los procesos, procedimientos y hábitos de la empresa para que se convierta en una actividad más a realizar y no suponga un esfuerzo aislado.</td> 
+  </tr>
+</table>
+<p><img src="https://blog.gerencial.me/content/images/2018/04/8.png" alt="Implementación de la estrategia"></p>
+<h2 id="bibliografa">Bibliografía</h2>
+<ul>
+<li>Peters, T. and Waterman, R. (1997). En busca de la excelencia. Colombia: Grupo Editorial Norma.</li>
+<li>Kaplan, R. and Norton, D. (2003). El cuadro de mando integral. Barcelona: Gestión 2000.</li>
+<li>Tiqal. (2018). Los ocho aceleradores de John P. Kotter - Tiqal. Recuperado de: <a href="https://www.tiqal.com/los-ocho-aceleradores-de-john-p-kotter/">Tiqal</a>.</li>
+</ul>
+</div>]]></content:encoded></item><item><title><![CDATA[Decisiones estratégicas]]></title><description><![CDATA[<div class="kg-card-markdown"><p>El proceso de toma de decisiones sigue tres etapas: primero hay que generar opciones (disponer como mínimo de un dilema estratégico. Después evaluar esas opciones y finalmente seleccionar la estrategia. Para generar estas opciones estratégicas se pueden utilizar diferentes modelos o herramientas estratégicas:</p>
 <h2 id="modelodelasestrategiasgenricas">Modelo de las estrategias genéricas</h2>
-<p>Un aspecto</p></div>]]></description><link>https://blog.gerencial.me/decisiones-estrategicas/</link><guid isPermaLink="false">5acca4067d4df60a0af99cd3</guid><category><![CDATA[estrategias-genericas]]></category><category><![CDATA[porter]]></category><category><![CDATA[empresa]]></category><category><![CDATA[recursos]]></category><category><![CDATA[organización]]></category><category><![CDATA[estrategias]]></category><category><![CDATA[producto-mercado]]></category><category><![CDATA[portfolio-analysis]]></category><category><![CDATA[canvas]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Tue, 10 Apr 2018 11:53:22 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-10-a-la-s--09.09.48.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-10-a-la-s--09.09.48.png" alt="Decisiones estratégicas"><p>El proceso de toma de decisiones sigue tres etapas: primero hay que generar opciones (disponer como mínimo de un dilema estratégico. Después evaluar esas opciones y finalmente seleccionar la estrategia. Para generar estas opciones estratégicas se pueden utilizar diferentes modelos o herramientas estratégicas:</p>
+<p>Un aspecto</p></div>]]></description><link>https://blog.gerencial.me/decisiones-estrategicas/</link><guid isPermaLink="false">5acca4067d4df60a0af99cd3</guid><category><![CDATA[estrategias-genericas]]></category><category><![CDATA[porter]]></category><category><![CDATA[empresa]]></category><category><![CDATA[recursos]]></category><category><![CDATA[organización]]></category><category><![CDATA[estrategias]]></category><category><![CDATA[producto-mercado]]></category><category><![CDATA[portfolio-analysis]]></category><category><![CDATA[canvas]]></category><category><![CDATA[TP-2]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Tue, 10 Apr 2018 11:53:22 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-10-a-la-s--09.09.48.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/Captura-de-pantalla-2018-04-10-a-la-s--09.09.48.png" alt="Decisiones estratégicas"><p>El proceso de toma de decisiones sigue tres etapas: primero hay que generar opciones (disponer como mínimo de un dilema estratégico. Después evaluar esas opciones y finalmente seleccionar la estrategia. Para generar estas opciones estratégicas se pueden utilizar diferentes modelos o herramientas estratégicas:</p>
 <h2 id="modelodelasestrategiasgenricas">Modelo de las estrategias genéricas</h2>
 <p>Un aspecto importante a considerar en la planeación de la estrategia es la forma de lidiar con la competencia. Uno de los autores más conocidos que abordaron este asunto, <em>Michael Porter</em>, propone tres estrategias competitivas: <strong>diferenciación, liderazgo de costos y enfoque</strong>.</p>
 <ul>
@@ -193,6 +261,12 @@ Según el Dr. Alexander Fink, existen 4 niveles de incertidumbre:</p>
     <img src="https://i.imgur.com/dAtmJ27.png" style="width:100%" onclick="onClick(this)">
   </div>
 </div>
+<h1 id="unidad2">Unidad 2</h1>
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2.png" style="width:100%" onclick="onClick(this)">
+  </div>
+</div>
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
   <img class="w3-modal-content" id="img01" style="width:90%">
 </div>
@@ -201,6 +275,12 @@ Según el Dr. Alexander Fink, existen 4 niveles de incertidumbre:</p>
  <div class="w3-row-padding">
   <div class="w3-container">
     <img src="https://i.imgur.com/dAtmJ27.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
+  </div>
+</div>
+<h1 id="unidad2">Unidad 2</h1>
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
   </div>
 </div>
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
