@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Wed, 11 Apr 2018 12:09:47 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Implementación de la estrategia]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Cuando una organización quiere realizar cambios ha de ver cómo afectará a todas sus partes y qué medidas va a tener que adoptar para conseguir que se lleve a la práctica de manera excelente.<br>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Thu, 12 Apr 2018 14:15:54 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Implementación de la estrategia]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Cuando una organización quiere realizar cambios ha de ver cómo afectará a todas sus partes y qué medidas va a tener que adoptar para conseguir que se lleve a la práctica de manera excelente.<br>
 Por otra parte es importante convertir la estrategia de la empresa en un conjunto de objetivos</p></div>]]></description><link>https://blog.gerencial.me/implementacion-de-la-estrategia/</link><guid isPermaLink="false">5acdefaecb517d0a9948d534</guid><category><![CDATA[estrategias]]></category><category><![CDATA[empresa]]></category><category><![CDATA[organización]]></category><category><![CDATA[7s]]></category><category><![CDATA[8-aceleradores]]></category><category><![CDATA[CMI]]></category><category><![CDATA[TP-2]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Wed, 11 Apr 2018 12:07:17 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/04/37.jpg" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/04/37.jpg" alt="Implementación de la estrategia"><p>Cuando una organización quiere realizar cambios ha de ver cómo afectará a todas sus partes y qué medidas va a tener que adoptar para conseguir que se lleve a la práctica de manera excelente.<br>
 Por otra parte es importante convertir la estrategia de la empresa en un conjunto de objetivos e indicadores de resultados para facilitar su seguimiento y gestión. Para ello exísten diversos cursos de acción, se explicará en el siguiente post tres de ellos: <em>Modelo de las 7s</em>, <em>Cuadro de mando integral</em> y <em>Modelo de aceleradores de Kotter</em></p>
 <hr>
@@ -254,37 +254,37 @@ Según el Dr. Alexander Fink, existen 4 niveles de incertidumbre:</p>
 <ul>
 <li>James A. Stoner, R. Edward Freeman, Daniel R. Gilbert JR (1996). Administración. México: Pearson, Prentice Hall.</li>
 </ul>
-</div>]]></content:encoded></item><item><title><![CDATA[Mapas Conceptuales]]></title><description><![CDATA[<div class="kg-card-markdown"><h1 id="unidad1">Unidad 1</h1>
+</div>]]></content:encoded></item><item><title><![CDATA[Mapas Conceptuales]]></title><description><![CDATA[<div class="kg-card-markdown"><h1 id="unidad1"><a href="https://blog.gerencial.me/content/images/2018/04/dAtmJ27.png">Unidad 1</a></h1>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
  <div class="w3-row-padding">
   <div class="w3-container">
-    <img src="https://i.imgur.com/dAtmJ27.png" style="width:100%" onclick="onClick(this)">
+    <img src="https://blog.gerencial.me/content/images/2018/04/dAtmJ27.png" style="width:100%" onclick="onClick(this)">
   </div>
 </div>
-<h1 id="unidad2">Unidad 2</h1>
+<h1 id="unidad2"><a href="https://blog.gerencial.me/content/images/2018/04/Mapa-2-3.png">Unidad 2</a></h1>
  <div class="w3-row-padding">
   <div class="w3-container">
-    <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2.png" style="width:100%" onclick="onClick(this)">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2-2.png" style="width:100%" onclick="onClick(this)">
   </div>
 </div>
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-  <img class="w3-modal-content" id="img01" style="width:90%">
+  <img class="w3-modal-content" id="img01" style="width:95%">
 </div>
-</div>]]></description><link>https://blog.gerencial.me/mapas/</link><guid isPermaLink="false">5abd86eee45d6415f8912a90</guid><category><![CDATA[mapas-conceptuales]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Thu, 22 Mar 2018 12:37:25 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/03/dAtmJ27.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><h1 id="unidad1">Unidad 1</h1>
+</div>]]></description><link>https://blog.gerencial.me/mapas/</link><guid isPermaLink="false">5abd86eee45d6415f8912a90</guid><category><![CDATA[mapas-conceptuales]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Thu, 22 Mar 2018 12:37:25 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/03/dAtmJ27.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><h1 id="unidad1"><a href="https://blog.gerencial.me/content/images/2018/04/dAtmJ27.png">Unidad 1</a></h1>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
  <div class="w3-row-padding">
   <div class="w3-container">
-    <img src="https://i.imgur.com/dAtmJ27.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
+    <img src="https://blog.gerencial.me/content/images/2018/04/dAtmJ27.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
   </div>
 </div>
-<h1 id="unidad2">Unidad 2</h1>
+<h1 id="unidad2"><a href="https://blog.gerencial.me/content/images/2018/04/Mapa-2-3.png">Unidad 2</a></h1>
  <div class="w3-row-padding">
   <div class="w3-container">
-    <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2-2.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
   </div>
 </div>
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-  <img class="w3-modal-content" id="img01" style="width:90%" alt="Mapas Conceptuales">
+  <img class="w3-modal-content" id="img01" style="width:95%" alt="Mapas Conceptuales">
 </div>
 </div>]]></content:encoded></item><item><title><![CDATA[Organizaciones]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Una organización es un sistema de recursos encaminados<br>
 a realizar algún objetivo (o conjunto de objetivos). Además de objetivos y recursos, las organizaciones cuentan con otros dos componentes importantes: procesos de transformación y división del trabajo.</p>
