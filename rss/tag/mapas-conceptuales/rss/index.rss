@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[mapas-conceptuales - Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>mapas-conceptuales - Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Thu, 12 Apr 2018 14:16:34 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/tag/mapas-conceptuales/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Mapas Conceptuales]]></title><description><![CDATA[<div class="kg-card-markdown"><h1 id="unidad1"><a href="https://blog.gerencial.me/content/images/2018/04/dAtmJ27.png">Unidad 1</a></h1>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[mapas-conceptuales - Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>mapas-conceptuales - Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Thu, 26 Apr 2018 13:46:23 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/tag/mapas-conceptuales/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Mapas Conceptuales]]></title><description><![CDATA[<div class="kg-card-markdown"><h1 id="unidad1"><a href="https://blog.gerencial.me/content/images/2018/04/dAtmJ27.png">Unidad 1</a></h1>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
  <div class="w3-row-padding">
   <div class="w3-container">
@@ -9,6 +9,15 @@
  <div class="w3-row-padding">
   <div class="w3-container">
     <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2-2.png" style="width:100%" onclick="onClick(this)">
+  </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <img class="w3-modal-content" id="img01" style="width:95%">
+</div>
+<h1 id="unidad3"><a href="https://blog.gerencial.me/content/images/2018/04/Econom-a-de-la-empresa.png">Unidad 3</a></h1>
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Econom-a-de-la-empresa.png" style="width:100%" onclick="onClick(this)">
   </div>
 </div>
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
@@ -25,6 +34,15 @@
  <div class="w3-row-padding">
   <div class="w3-container">
     <img src="https://blog.gerencial.me/content/images/2018/04/Mapa-2-2.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
+  </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <img class="w3-modal-content" id="img01" style="width:95%" alt="Mapas Conceptuales">
+</div>
+<h1 id="unidad3"><a href="https://blog.gerencial.me/content/images/2018/04/Econom-a-de-la-empresa.png">Unidad 3</a></h1>
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/04/Econom-a-de-la-empresa.png" style="width:100%" onclick="onClick(this)" alt="Mapas Conceptuales">
   </div>
 </div>
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
