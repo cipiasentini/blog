@@ -1,4 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Wed, 16 May 2018 20:56:53 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[El liderazgo y su importancia en la gestión de las organizaciones en general]]></title><description><![CDATA[<div class="kg-card-markdown"><h1 id="introduccin">Introducción</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Thu, 07 Jun 2018 14:53:39 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Caso de estudio: Puesta en marcha de una fundación]]></title><description><![CDATA[<div class="kg-card-markdown"> <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/06/Organigrama-bitacora-5.png" style="width:100%" onclick="onClick(this)">
+  </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <img class="w3-modal-content" id="img01" style="width:90%">
+</div></div>]]></description><link>https://blog.gerencial.me/caso-de-estudio-fundador-de/</link><guid isPermaLink="false">5b0d57a9f904bd02cb361d41</guid><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Tue, 29 May 2018 13:45:15 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/05/Logo_FundacionCriteria-01-4.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"> <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/06/Organigrama-bitacora-5.png" style="width:100%" onclick="onClick(this)" alt="Caso de estudio: Puesta en marcha de una fundación">
+  </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <img class="w3-modal-content" id="img01" style="width:90%" alt="Caso de estudio: Puesta en marcha de una fundación">
+</div></div>]]></content:encoded></item><item><title><![CDATA[La conducta humana en la organización]]></title><description><![CDATA[<div class="kg-card-markdown"><h1 id="estructuraorganizacional">Estructura organizacional</h1>
+<p>La estructura organizacional es fundamental en todas las empresas, define muchas características de cómo se va a organizar, tiene la función principal de establecer autoridad, jerarquía, cadena de mando, organigramas y departamentalizaciones, entre otras.<br>
+Las organizaciones deben contar con una estructura organizacional de acuerdo a todas las actividades</p></div>]]></description><link>https://blog.gerencial.me/la-conducta-humana-en-la-organizacion/</link><guid isPermaLink="false">5b0d4880f904bd02cb361d3a</guid><category><![CDATA[organización]]></category><category><![CDATA[estructura]]></category><category><![CDATA[empresa]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Tue, 29 May 2018 12:48:11 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/05/4d7cdcc0c79c914259b76e6dd51f6190.jpg" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><h1 id="estructuraorganizacional">Estructura organizacional</h1>
+<img src="https://blog.gerencial.me/content/images/2018/05/4d7cdcc0c79c914259b76e6dd51f6190.jpg" alt="La conducta humana en la organización"><p>La estructura organizacional es fundamental en todas las empresas, define muchas características de cómo se va a organizar, tiene la función principal de establecer autoridad, jerarquía, cadena de mando, organigramas y departamentalizaciones, entre otras.<br>
+Las organizaciones deben contar con una estructura organizacional de acuerdo a todas las actividades o tareas que pretenden realizar, mediante una correcta estructura que le permita establecer sus funciones, y departamentos con la finalidad de producir sus servicios o productos, mediante un orden y un adecuado control para alcanzar sus metas y objetivos.</p>
+<h1 id="tiposdeestructurasorganizacionales">Tipos de estructuras organizacionales</h1>
+<p>Si bien con el afianzamiento del Management 4.0 en el mundo organizacional, el cuál basa su estructura organizacional en <strong>estructuras flexibles</strong>, centradas en la satisfacción de los empleados/clientes; se siguen utilizando en muchas organizaciones otro tipos de estructuras, los cuales pueden ser:</p>
+<h3 id="organizacinfuncional">Organización Funcional</h3>
+<p>Responde a la necesidad de la organización de disponer de una serie de capacidades o destrezas (funciones) con continuidad para su utilización en distintas actividades.</p>
+<ul>
+<li>Está organizada de forma vertical con relaciones jerárquicas que distinguen nítidamente las distintas responsabilidades.</li>
+<li>El personal está organizado por especialidades.</li>
+<li>Al proyecto se le asignan personas de distintas áreas funcionales (el diseño lo realiza el área de ingeniería, el abastecimiento el área de compras, los presupuestos el área comercial, los cursos el área de formación, etc.</li>
+<li>La coordinación de los proyectos la hacen los directores de las áreas involucradas.</li>
+</ul>
+<p><img src="https://blog.gerencial.me/content/images/2018/05/Captura-de-pantalla-2018-05-29-a-la-s--09.46.31.png" alt="La conducta humana en la organización"></p>
+<h3 id="organizacinorientadaaproyectos">Organización orientada a proyectos</h3>
+<p>Organización totalmente opuesta a la funcional:</p>
+<ul>
+<li>Se designa un director de proyecto para cada uno de los proyectos en curso.
+<ul>
+<li>El director tiene total responsabilidad y autoridad.</li>
+<li>Es el interlocutor único con los involucrados en el proyecto.</li>
+</ul>
+</li>
+<li>Los miembros del equipo de proyecto son, generalmente, asignados al proyecto, por lo que una vez finalizado, pueden salir del equipo.</li>
+</ul>
+<p><img src="https://blog.gerencial.me/content/images/2018/05/Captura-de-pantalla-2018-05-29-a-la-s--09.49.38.png" alt="La conducta humana en la organización"></p>
+<h3 id="organizacinmatricial">Organización matricial</h3>
+<p>Organización intermedia entre las dos anteriores, con diferentes grados de reparto de la autoridad y de la responsabilidad entre los directores funcionales y los directores de proyectos.<br>
+Los proyectos se reconocen como actividades propias de la organización, pero al director de proyecto se le asignan sólo algunas funciones.<br>
+El director de proyecto se encarga, generalmente, de la planificación y control del proyecto. Esto es:</p>
+<ul>
+<li>Desarrollar y mantener el plan de proyecto.</li>
+<li>Establecer el plan de realización o ejecución.</li>
+<li>Realizar el plan financiero.</li>
+<li>Evaluar el grado de realización del proyecto e informar del mismo.</li>
+</ul>
+<p>En la dirección funcional, un coordinador funcional se encarga de dirigir, técnicamente, el proyecto. Este coordinador decide quién es responsable de cada tarea y cómo, quién y con qué prioridad se hace cada tarea. Asimismo, controla la realización de las tareas e informa del grado de avance.<br>
+<img src="https://blog.gerencial.me/content/images/2018/05/Captura-de-pantalla-2018-05-29-a-la-s--09.52.31.png" alt="La conducta humana en la organización"></p>
+<h3 id="organizacinmixta">Organización mixta</h3>
+<p>Son una mezcla de las Organizaciones Funcionales y de las Matriciales.<br>
+Dependiendo de si son más o menos funcionales, más o menos matriciales, pueden ser:</p>
+<ul>
+<li>Organización matricial débil.</li>
+<li>Organización matricial balanceada.</li>
+<li>Organización matricial fuerte.</li>
+<li>Organización matricial compuesta.<br>
+Por tanto, aspectos como el papel del director de proyecto y su nivel de autoridad y responsabilidad, recursos y origen de los recursos dedicados al proyecto, etc. dependen de la clasificación anterior.</li>
+</ul>
+<style>
+    .two-img {
+    display: block;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    }
+    .two-img:hover {
+        box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    }
+</style>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+ <div class="w3-row-padding">
+  <div class="w3-container">
+    <img src="https://blog.gerencial.me/content/images/2018/05/Captura-de-pantalla-2018-05-29-a-la-s--09.55.57.png" style="width:25%" class="two-img" onclick="onClick(this)" alt="La conducta humana en la organización">
+    <img src="https://blog.gerencial.me/content/images/2018/05/Captura-de-pantalla-2018-05-29-a-la-s--09.56.06.png" style="width:25%" class="two-img" onclick="onClick(this)" alt="La conducta humana en la organización">
+    <img src="https://blog.gerencial.me/content/images/2018/05/Captura-de-pantalla-2018-05-29-a-la-s--09.56.16.png" style="width:25%" class="two-img" onclick="onClick(this)" alt="La conducta humana en la organización">
+    <img src="https://blog.gerencial.me/content/images/2018/05/Captura-de-pantalla-2018-05-29-a-la-s--09.56.24.png" style="width:25%" class="two-img" onclick="onClick(this)" alt="La conducta humana en la organización">
+  </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <img class="w3-modal-content" id="img01" style="width:85%" alt="La conducta humana en la organización">
+</div>
+<h1 id="bibliografa">Bibliografía</h1>
+<ul>
+<li>Artículo PDF: Organización Empresarial y Proyectos.- Escuela Politécnica Superior – Universidad Autónoma de Madrid (suministrado por la cátedra)</li>
+<li>Alvarez, H. (2003). Administración : un enfoque interdisciplinario y competitivo. Argentina: Eudecor.</li>
+</ul>
+</div>]]></content:encoded></item><item><title><![CDATA[El liderazgo y su importancia en la gestión de las organizaciones en general]]></title><description><![CDATA[<div class="kg-card-markdown"><h1 id="introduccin">Introducción</h1>
 <p>Los primeros estudios sobre liderazgo estuvieron enfocados a encontrar los rasgos psicológicos inherentes a los líderes eficaces; características como inteligencia, voluntad, sociabilidad y condiciones de autoridad fueron las más aceptadas, pero su validación en las organizaciones al pasar el tiempo resultó infructuosa.<br>
 En la década de los 60’s,</p></div>]]></description><link>https://blog.gerencial.me/untitled-2/</link><guid isPermaLink="false">5af36fb73e94f00518d66c98</guid><category><![CDATA[liderazgo]]></category><category><![CDATA[equipos-de-trabajo]]></category><category><![CDATA[organización]]></category><category><![CDATA[dirección]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Wed, 09 May 2018 22:04:22 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/05/Leadership-400x310.jpg" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><h1 id="introduccin">Introducción</h1>
 <img src="https://blog.gerencial.me/content/images/2018/05/Leadership-400x310.jpg" alt="El liderazgo y su importancia en la gestión de las organizaciones en general"><p>Los primeros estudios sobre liderazgo estuvieron enfocados a encontrar los rasgos psicológicos inherentes a los líderes eficaces; características como inteligencia, voluntad, sociabilidad y condiciones de autoridad fueron las más aceptadas, pero su validación en las organizaciones al pasar el tiempo resultó infructuosa.<br>
@@ -641,67 +739,5 @@ a realizar algún objetivo (o conjunto de objetivos). Además de objetivos y rec
 <h2 id="bibliografia">Bibliografia</h2>
 <ul>
 <li>James A. Stoner, R. Edward Freeman, Daniel R. Gilbert JR (1996). Administración. México: Pearson, Prentice Hall.</li>
-</ul>
-</div>]]></content:encoded></item><item><title><![CDATA[Enfoque sistémico de las organizaciones]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Un <strong>sistema</strong> es un conjunto de partes o elementos organizadas y relacionadas que interactúan entre sí para lograr un objetivo. Los sistemas reciben (entrada) datos, energía o materia del ambiente y proveen (salida) información, energía o materia. Este proceso no solo es guiado por las entradas sino también por la</p></div>]]></description><link>https://blog.gerencial.me/enfoque-sistemico-de-las-organizaciones/</link><guid isPermaLink="false">5abd86eee45d6415f8912a8b</guid><category><![CDATA[organización]]></category><category><![CDATA[sistemas]]></category><category><![CDATA[contingencia]]></category><category><![CDATA[TP-1]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Tue, 20 Mar 2018 16:01:38 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/03/Captura-de-pantalla-2018-03-20-a-la-s--13.00.06.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/03/Captura-de-pantalla-2018-03-20-a-la-s--13.00.06.png" alt="Enfoque sistémico de las organizaciones"><p>Un <strong>sistema</strong> es un conjunto de partes o elementos organizadas y relacionadas que interactúan entre sí para lograr un objetivo. Los sistemas reciben (entrada) datos, energía o materia del ambiente y proveen (salida) información, energía o materia. Este proceso no solo es guiado por las entradas sino también por la retroalimentación obtenida respecto de la salida.</p>
-<p><img src="https://i.imgur.com/CshKyOV.png" alt="Enfoque sistémico de las organizaciones"></p>
-<h1 id="organizacincomosistema">Organización como sistema</h1>
-<p>A toda organización se le considera como un sistema abierto compuesto de varios subsistemas. Dicho sistema organizacional recibe insumos (información, materiales, gente), los transforma y los regresa en forma de productos (bienes y servicios).<br>
-Internamente una organización puede describirse como un conjunto articulado de subsistemas, cada uno de los cuales se encarga de cumplir una determinada función. Por ejemplo:</p>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
- <div class="w3-row-padding">
-  <div class="w3-container">
-    <img src="https://i.imgur.com/9xPtaEW.png" style="width:100%" onclick="onClick(this)" alt="Enfoque sistémico de las organizaciones">
-  </div>
-</div>
-<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-  <img class="w3-modal-content" id="img01" style="width:90%" alt="Enfoque sistémico de las organizaciones">
-</div>
-<h1 id="suprasistemaambiental">Suprasistema ambiental</h1>
-<p>Toda organización está inserta en un medio ambiente, y como aquella es un sistema abierto, recibe entradas desde el mismo, que la influyen y condicionan.<br>
-El suprasistema ambiental responde a una cultura, en el sentido antropológico del término, y cuando la organización intenta constituirse con un modo de ser totalmente ajeno al de aquel, esto repercute fuertemente en su capacidad operativa.</p>
-<h2 id="subsistemadeobjetivosyvalores">Subsistema de objetivos y valores</h2>
-<p>Es el que confiere razón de ser a la organización, y justifican su necesidad. Da sentido a la existencia de cada una de las partes de la organización.<br>
-Un aspecto relevante es el grado de congruencia existe entre la misión y objetivos institucionales, y las tendencias e intereses de las personas miembros de la organización</p>
-<h2 id="subsistematcnicootecnolgico">Subsistema técnico o tecnológico</h2>
-<p>Comprende no sólo la tecnología utilizada en la organización para el funcionamiento administrativo, (del cual los sistemas informáticos y otros equipamientos serían un ejemplo) si no también los saberes técnicos que la organización aplica, a través de sus profesionales y técnicos, para la realización de sus servicios. Por ejemplo, en una organización de la salud, los saberes y tecnologías que los médicos y otros profesionales aplican, o en una organización académica, los saberes de los docentes e investigadores.</p>
-<h2 id="subsistemaestructural">Subsistema estructural</h2>
-<p>Es el que puede definirse, según Kast y Rosenzweig como “el patrón establecido de relaciones entre los componentes o partes de la organización”. Refleja lo que algunos autores llaman la “organización formal”, es decir, aquella planeada, explícita, y legitimada.<br>
-Este subsistema comprende la definición de tareas ya actividades para el logro de objetivos, la distribución de las personas en los puestos de trabajo, las relaciones y procedimientos entre las distintas secciones, las autoridades y responsabilidades formales.<br>
-El organigrama y eventuales manuales de procedimientos, reglamentos, y niveles de autoridad, son documentos típicos de este subsistema.</p>
-<h2 id="subsistemapsicosocial">Subsistema psicosocial</h2>
-<p>Se trata del entramado de relaciones interpersonales y sociales que se dan al interior de una organización y que crea el clima o ambiente organizacional, incidiendo en el funcionamiento.<br>
-Abarca las motivaciones, deseos, sentimientos, afectos de las personas en la organización, y está fuertemente connotado por los estilos de dirección prevalecientes.</p>
-<h2 id="subsistemaadministrativodeinformacindecisin">Subsistema administrativo de información-decisión</h2>
-<p>Para los autores tiene una centralidad indiscutible. Es el que da cohesión a los otros cuatro subsistemas.<br>
-La administración sería la actividad de personas y grupos que actúan juntos, de manera organizada para alcanzar determinados fines u objetivos comunes que no es factible lograr individualmente.<br>
-Abarca cinco niveles:<br>
-•	El proceso de toma de decisiones<br>
-•	La planificación administrativa<br>
-•	El control operativo<br>
-•	La coordinación<br>
-•	Los sistemas de información</p>
-<h1 id="teoradecontingenciadelossistemas">Teoría de Contingencia de los Sistemas</h1>
-<p>Referirse a contingencia significa que no existe una única manera de estructurar y dirigir una organización. Todo depende de una serie de factores. Las organizaciones deben tener la capacidad de encontrar soluciones creativas ante la diversidad de factores que condicionan su sobrevivencia y posibilitan su éxito. Es posible distinguir dos tipos de factores que inciden sobre la estructura y la dirección de las organizaciones (Hall, 1996: 93): los factores situacionales (o de contexto) y los factores de diseño.<br>
-Los primeros se refieren al contexto en el que opera la organización, tanto dentro como fuera de su ámbito de control; abarcan el tiempo de vida y el tamaño de la organización, la tecnología, la cultura (los mercados y las otras organizaciones). Los segundos se refieren a las selecciones estratégicas efectuadas por la organización de acuerdo con las metas y con la visión de los actores que intervienen en ella. La teoría de la contingencia pone el énfasis en los factores situacionales. El tratamiento de los factores de diseño requiere una perspectiva de análisis de los actores y del poder.</p>
-<p><img src="https://i.imgur.com/nK1fXxA.png" alt="Enfoque sistémico de las organizaciones"></p>
-<h2 id="bibliografa">Bibliografía</h2>
-<ul>
-<li>Richard H. Hall (1983). Organizaciones, estructura y procesos. Colombia:  Prentice Hall Internacional.</li>
-<li>Denis Sulmont. Sistemas y contingencia. Capitulo 7. Academia. Recuperado de: <a href="//www.academia.edu/16439248/Organizaciones-Cap%C3%ADtulo_7_Sistemas_y_contingenciaACADEMIA">Sistemas y contingencia</a>.</li>
-<li>Lucio Capalbo (2003). Buscando pautas en el caos. Recuperado<br>
-de: <a href="//www.monografias.com/trabajos107/buscando-pautas-caos-lucio-capalbo/buscando-pautas-caos-lucio-capalbo.shtml">Buscando pautas en el caos</a>.</li>
-</ul>
-</div>]]></content:encoded></item><item><title><![CDATA[Proceso de transformación de datos en conocimiento]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Consiste en la recolección de los datos primarios de entrada, que son evaluados y ordenados, para obtener información útil, que luego serán analizados por el usuario final, para que pueda tomar las decisiones o realizar las acciones que estime conveniente.</p>
-<p><img src="https://i.imgur.com/vMlYgWB.png" alt=""></p>
-<h2 id="roldelossistemasdeinformacinenlageneracindeconocimiento">Rol de los sistemas de información en la generación de</h2></div>]]></description><link>https://blog.gerencial.me/proceso-de-transformacion-de-datos-en-conocimiento/</link><guid isPermaLink="false">5abd86eee45d6415f8912a8a</guid><category><![CDATA[conocimiento]]></category><category><![CDATA[datos]]></category><category><![CDATA[TP-1]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Tue, 20 Mar 2018 15:56:50 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/03/a.jpg" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/03/a.jpg" alt="Proceso de transformación de datos en conocimiento"><p>Consiste en la recolección de los datos primarios de entrada, que son evaluados y ordenados, para obtener información útil, que luego serán analizados por el usuario final, para que pueda tomar las decisiones o realizar las acciones que estime conveniente.</p>
-<p><img src="https://i.imgur.com/vMlYgWB.png" alt="Proceso de transformación de datos en conocimiento"></p>
-<h2 id="roldelossistemasdeinformacinenlageneracindeconocimiento">Rol de los sistemas de información en la generación de conocimiento</h2>
-<p><img src="https://i.imgur.com/dG0D0fh.png" alt="Proceso de transformación de datos en conocimiento"></p>
-<p>Los Sistemas de Información deben tener un objetivo, una estrategia y factores críticos de éxito. La evaluación de los Sistemas de Información que operan actualmente en una empresa así como la adquisición o creación de un nuevo sistema, requieren del establecimiento de objetivos claros, medibles y reales sustentados en una estrategia que guie el cómo van a ser transformados en resultados. Así mismo, se vuelve clave la existencia de factores críticos de éxito que identifiquen los elementos de valor que existen dentro y fuera de la empresa y que pueden ser utilizados en la instrumentación de un Sistema de Información.</p>
-<h2 id="bibliografa">Bibliografía:</h2>
-<ul>
-<li>Cecilia Casanova (2009). El rol de los sistemas de información en la gestión del conocimiento en las empresas. Recuperado de: <a href="//www.petrotecnia.com.ar/junio09/el%20rol.pdf">Petrotecnia</a></li>
-<li>Sinexus. Datos, Información, Conocimiento. Recuperado de: <a href="//www.sinnexus.com/business_intelligence/piramide_negocio.aspx">Sinexus</a></li>
-<li>C. Quintero Molina. Cual es el rol de los sistemas de información en los negocios actualmente. Recuperado de: <a href="//www.academia.edu/9695280/CUAL_ES_EL_ROL_DE_LOS_SISTEMAS_DE_INFORMACION_EN_LOS_NEGOCIOS_ACTUALMENTE">Academia</a></li>
 </ul>
 </div>]]></content:encoded></item></channel></rss>
