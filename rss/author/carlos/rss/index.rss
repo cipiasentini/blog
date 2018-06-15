@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Carlos Piasentini - Germán Monzón - Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Carlos Piasentini - Germán Monzón - Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Thu, 07 Jun 2018 14:54:21 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/author/carlos/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Caso de estudio: Puesta en marcha de una fundación]]></title><description><![CDATA[<div class="kg-card-markdown"> <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="//purl.org/dc/elements/1.1/" xmlns:content="//purl.org/rss/1.0/modules/content/" xmlns:atom="//www.w3.org/2005/Atom" version="2.0" xmlns:media="//search.yahoo.com/mrss/"><channel><title><![CDATA[Carlos Piasentini - Germán Monzón - Administración Gerencial]]></title><description><![CDATA[Materia de 5to año de ingeniería en sistemas de información - UTN FRRe]]></description><link>https://blog.gerencial.me/</link><image><url>https://blog.gerencial.me/favicon.png</url><title>Carlos Piasentini - Germán Monzón - Administración Gerencial</title><link>https://blog.gerencial.me/</link></image><generator>Ghost 1.22</generator><lastBuildDate>Thu, 14 Jun 2018 17:38:56 GMT</lastBuildDate><atom:link href="https://blog.gerencial.me/author/carlos/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[DIFUSIÓN Y USO DE TIC`s POR PARTE DE LA INDUSTRIA MANUFACTURERA DE LA PROVINCIA DEL CHACO]]></title><description><![CDATA[<div class="kg-card-markdown"><h2 id="introduccin">Introducción</h2>
+<p>La cooperación empresarial ocupa un lugar central en el replanteo de las estrategias productivas y comerciales que las firmas de los países desarrollados vienen llevando a cabo en los últimos quince años. Estas estrategias constituyen una respuesta a las nuevas condiciones de funcionamiento de la economía mundial y a</p></div>]]></description><link>https://blog.gerencial.me/difusion-y-uso-de-tic-s-por-parte-de-la-industria-manufacturera-de-la-provincia-del-chaco/</link><guid isPermaLink="false">5b22a65fcd7805025053eee0</guid><category><![CDATA[bitacora-6]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Thu, 14 Jun 2018 17:36:26 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/06/Tercera_plataforma1.jpg" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><h2 id="introduccin">Introducción</h2>
+<img src="https://blog.gerencial.me/content/images/2018/06/Tercera_plataforma1.jpg" alt="DIFUSIÓN Y USO DE TIC`s POR PARTE DE LA INDUSTRIA MANUFACTURERA DE LA PROVINCIA DEL CHACO"><p>La cooperación empresarial ocupa un lugar central en el replanteo de las estrategias productivas y comerciales que las firmas de los países desarrollados vienen llevando a cabo en los últimos quince años. Estas estrategias constituyen una respuesta a las nuevas condiciones de funcionamiento de la economía mundial y a los cambios que se van generalizando en la organización industrial.<br>
+En ese contexto, las tecnologías de la información (TICs) contribuyen a disminuir los costos de coordinación de actividades entre agentes económicos y ofrecen un soporte para la extensión y redefinición de las relaciones inter-empresariales. Así, por ejemplo, la creciente difusión del intercambio de datos entre computadores, tanto al interior de las firmas como entre empresas conectadas por red, modifica las relaciones comerciales, productivas y tecnológicas existentes previamente, tiende a romper algunos de los límites existentes entre las firmas, crea valor en los productos y constituye un soporte tecnológico para potenciar la cooperación empresarial.</p>
+<h2 id="quesepuedelograr">¿Que se puede lograr?</h2>
+<p>El objetivo de esta orientación es obtener una industria más competitiva, diferenciada y que sea reconocida mundialmente por su identidad y atributos propios. Esto se puede lograr impulsando la articulación de proyectos entre las universidades y actores públicos y privados, para transferir conocimientos y/o tecnologías en el marco de proyectos productivos. Trabajando en la transformación de la matriz productiva, potenciando el valor estratégico de las PyMEs y Emprendedores como motores y dinamizadores del desarrollo económico del país.</p>
+<h2 id="metodologapropuesta">Metodología propuesta</h2>
+<p><strong>Objetivo</strong>: Elaborar una estrategia de vinculación con las Pymes Industriales de la Provincia del Chaco.<br>
+<strong>Recopilación y Análisis de datos</strong>: Se parte de la obtención de datos de las PyMEs pertenecientes al Chaco con el fin de identificar las principales limitaciones, obstáculos y desafíos que enfrentan. Para luego analizar la implementación de TICs en los procesos problemáticos, y como resultado incrementar sus posibilidades de crecimiento y desarrollo.<br>
+<strong>Cursos de acción</strong>: En base a los problemas detectados se procederá a hacer un análisis utilizando 3 enfoques distintos para solventarlos:</p>
+<ul>
+<li>Equipamiento e Infraestructura Informática
+<ul>
+<li>Cual es la infraestructura de SI/TI actual de la empresa?</li>
+<li>Todas las actividades de la cadena de valor son cubiertas por las mismas?</li>
+<li>En caso negativo: es posible extender la funcionalidad</li>
+</ul>
+</li>
+<li>Uso de las nuevas herramientas de comunicación como factor de vinculación interna y externa de la empresa:
+<ul>
+<li>Utiliza alguna herramienta colaborativa para las actividades de la cadena de valor?</li>
+<li>Como se comunica con sus clientes/proveedores?</li>
+<li>Como da a conocer sus actividades/productos al mundo?</li>
+</ul>
+</li>
+<li>Evaluar la utilización de software y hardware en las actividades de producción
+<ul>
+<li>Cuales son las actividades de producción que más mano de obra y tiempo demandan?</li>
+<li>De esas actividades, cuales son las más propensas a error?</li>
+<li>Efectuar una investigación de mecanismos de automatización de procesos o sistemas de apoyo a los mismos</li>
+<li>Seleccionar el que más se adecue, haciendo un analisis de costo-beneficio</li>
+</ul>
+</li>
+</ul>
+</div>]]></content:encoded></item><item><title><![CDATA[Caso de estudio: Puesta en marcha de una fundación]]></title><description><![CDATA[<div class="kg-card-markdown"> <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
  <div class="w3-row-padding">
   <div class="w3-container">
     <img src="https://blog.gerencial.me/content/images/2018/06/Organigrama-bitacora-5.png" style="width:100%" onclick="onClick(this)">
@@ -699,45 +733,5 @@ a realizar algún objetivo (o conjunto de objetivos). Además de objetivos y rec
 <li>
 <p>Idalberto Chiavenato (2001), Administración de recursos humanos, Colombia: McGraw-Hill.</p>
 </li>
-</ul>
-</div>]]></content:encoded></item><item><title><![CDATA[Administración]]></title><description><![CDATA[<div class="kg-card-markdown"><p>Proceso de planificación, dirección y control del trabajo de los miembros de la organización y debe usar los recursos disponibles de la organización para alcanzar las metas establecidas.</p>
-<p><strong>Administrador o Gerente:</strong> Persona responsable de dirigir las actividades que ayudan a las organizaciones para alcanzar sus metas.</p>
-<h2 id="elprocesoadministrativoysusfuncionesbsicas">El “Proceso Administrativo” y</h2></div>]]></description><link>https://blog.gerencial.me/administracion-2/</link><guid isPermaLink="false">5abd86eee45d6415f8912a8e</guid><category><![CDATA[administración]]></category><category><![CDATA[gerente]]></category><category><![CDATA[TP-1]]></category><dc:creator><![CDATA[Carlos Piasentini - Germán Monzón]]></dc:creator><pubDate>Tue, 20 Mar 2018 18:30:09 GMT</pubDate><media:content url="https://blog.gerencial.me/content/images/2018/03/Captura-de-pantalla-2018-03-20-a-la-s--15.22.46.png" medium="image"/><content:encoded><![CDATA[<div class="kg-card-markdown"><img src="https://blog.gerencial.me/content/images/2018/03/Captura-de-pantalla-2018-03-20-a-la-s--15.22.46.png" alt="Administración"><p>Proceso de planificación, dirección y control del trabajo de los miembros de la organización y debe usar los recursos disponibles de la organización para alcanzar las metas establecidas.</p>
-<p><strong>Administrador o Gerente:</strong> Persona responsable de dirigir las actividades que ayudan a las organizaciones para alcanzar sus metas.</p>
-<h2 id="elprocesoadministrativoysusfuncionesbsicas">El “Proceso Administrativo” y sus funciones básicas</h2>
-<p><img src="https://i.imgur.com/bW28POw.png" alt="Administración"></p>
-<ul>
-<li><strong>Planificación:</strong> Proceso para establecer metas y un curso de acción adecuado para alcanzarlas.</li>
-<li><strong>Organización:</strong> Proceso para comprometer a dos o más personas para que trabajen juntas de manera estructurada, con el propósito de alcanzar una meta o una serie de metas específicas.</li>
-<li><strong>Dirección:</strong> Proceso para dirigir e influir en las actividades de los miembros de un grupo o una organización entera, con respecto a una tarea</li>
-<li><strong>Control:</strong> Proceso para asegurar que las actividades reales se ajustan a las actividades planificadas.</li>
-</ul>
-<h2 id="rolesdeladministrador">Roles del administrador</h2>
-<p><img src="https://i.imgur.com/lKndTlr.png" alt="Administración"></p>
-<h2 id="nivelesdeadministracin">Niveles de administración</h2>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
- <div class="w3-row-padding">
-  <div class="w3-container">
-    <img src="https://i.imgur.com/KOfr2iD.png" style="width:100%" onclick="onClick(this)" alt="Administración">
-  </div>
-</div>
-<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-  <img class="w3-modal-content" id="img01" style="width:90%" alt="Administración">
-</div>
-<ul>
-<li><strong>Primera línea o primer nivel:</strong> Gerentes que sólo son responsable del trabajo de los empleados de operaciones y que no supervisan a otros gerentes; representan el nivel primero o el más bajo en la jerarquía de una organización.</li>
-<li><strong>Gerencia media:</strong>  Gerentes en los rangos medios de la jerarquía de la organización; son responsables de otros gerentes y, en ocasiones, de algunos empleados de operaciones; a su vez, dependen de gerentes de nivel más alto. La responsabilidad principal es dirigir las actividades que sirven para poner en práctica las políticas de su organización y equilibrar las demandas de sus gerentes y las capacidades de sus patrones.</li>
-<li><strong>Alta gerencia:</strong> Gerentes responsables de la administración general de la organización; establecen políticas operativas y guían la interacción de la organización y su entorno.</li>
-</ul>
-<h2 id="nivelesyhabilidadesadministrativasnecesariasparadesempeoefectivodeunroldegerente">Niveles y habilidades administrativas necesarias para desempeño efectivo de un rol de gerente</h2>
-<p><img src="https://i.imgur.com/NUBlWb9.png" alt="Administración"></p>
-<ul>
-<li><strong>Habilidad técnica:</strong> habilidad para usar procedimientos, técnicas y conocimientos de un campo especializado. Esto implica trabajar con herramientas y técnicas específicas.</li>
-<li><strong>Habilidad humanista:</strong> Habilidad para trabajar con otros, entretenerlos y motivarlos, sean personas o grupos: se refieren a las habilidades de trabajar con gente; al esfuerzo cooperativo; al trabajo en equipo; a la creación de un ambiente en el cual el empleado se sienta seguro y libre para expresar sus opiniones.</li>
-<li><strong>Habilidad Conceptual:</strong> Habilidad para coordinar e integrar todos los intereses y las actividades de una organización: se refieren a la habilidad de ver el “panorama general”, reconocer los elementos significativos en una situación, comprender la relación entre los elementos.</li>
-</ul>
-<h2 id="bibliografia">Bibliografia</h2>
-<ul>
-<li>James A. Stoner, R. Edward Freeman, Daniel R. Gilbert JR (1996). Administración. México: Pearson, Prentice Hall.</li>
 </ul>
 </div>]]></content:encoded></item></channel></rss>
